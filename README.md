@@ -1,4 +1,4 @@
-Swift Native - Podcast App
+# Swift Native - Podcast App
 This project is a native podcast app developed for iOS using Swift.
 
 📚 Project Overview
