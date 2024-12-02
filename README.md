@@ -6,11 +6,13 @@ This app is a comprehensive iOS application designed for listening to and managi
 
 🛠 Technical Specifications
 Programming Language: Swift
+
 Framework: UIKit
 
 Features
 Discovering and listing podcasts
 User-friendly interface and easy navigation
 Modern iOS app design for enhanced user interaction
+
 🎯 Goal
 This project aims to improve your iOS app development skills with Swift and help you gain experience working with complex architectural patterns.
