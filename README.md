@@ -5,6 +5,7 @@ This project is a native podcast app developed for iOS using Swift.
 This app is a comprehensive iOS application designed for listening to and managing podcasts. It has been developed using the modern Swift programming language and current iOS development practices.
 
 🛠 Technical Specifications
+
 Programming Language: Swift
 
 Framework: UIKit
